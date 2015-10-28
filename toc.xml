@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Jordan" APIVersion="11" Name="AdvancedCommunicator" Description="UNDEFINED" Version="1">
+	<Script Name="LibJSON-2.5.lua"/>
+    <Script Name="AdvancedCommunicator.lua"/>
+    <Form Name="AdvancedCommunicator.xml"/>
+    <ReplaceAddon Name="CommDisplay"/>
+</Addon>
